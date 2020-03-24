@@ -10,10 +10,10 @@ Code is for educational purposes!
 
 <b>pyXORexe.py</b><br>
 PYTHON console programm with the same context as XORfile3.py but more flexible.<br />
-Argument Options:
-  --version          show program's version number and exit
-  -h, --help         show this help message and exit
-  --infile=INFILE    Intput file
-  --key=KEY          Key for XORing with Input file. Default: password
-  --outfile=OUTFILE  Output file (encrypted result)
+Argument Options:<br>
+  --version          show program's version number and exit<br>
+  -h, --help         show this help message and exit<br>
+  --infile=INFILE    Intput file<br>
+  --key=KEY          Key for XORing with Input file. Default: password<br>
+  --outfile=OUTFILE  Output file (encrypted result)<br>
 Code is for educational purposes!
